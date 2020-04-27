@@ -1,0 +1,85 @@
+body {
+  background: url(https://images.unsplash.com/photo-1455612693675-112974d4880b?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#title {
+  background-color: rgba(65, 121, 243, 0.705);
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  color: white;
+}
+
+#directions {
+  background-color: rgba(240, 245, 170, 0.61);
+  padding: 20px;
+  width: 600px;
+  color: rgb(104, 71, 10);
+  margin-bottom: 10px;
+}
+
+#random-number {
+  background-color: rgba(44, 172, 44, 0.61);
+  padding: 20px;
+  width: 250px;
+  color: darkblue;
+  float: left;
+  height: 100px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+#win-loss {
+  background-color: rgb(135, 206, 235, 0.61);
+  padding: 20px;
+  width: 100px;
+  color: black;
+  float: left;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+#title-score {
+  background-color: rgb(59, 150, 192, 0.61);
+  padding: 20px;
+  width: 250px;
+  color: white;
+  margin-top: 20px;
+}
+
+#score {
+  background-color: rgb(59, 150, 192, 0.61);
+  padding: 20px;
+  width: 250px;
+  color: white;
+  margin-top: 20px;
+  height: 100px;
+  font-size: 40px;
+}
+
+#crystal {
+  clear: both;
+}
+
+#crystal-one {
+  height: 100px;
+  width: 100px;
+}
+
+#crystal-two {
+  height: 100px;
+  width: 100px;
+}
+
+#crystal-three {
+  height: 100px;
+  width: 100px;
+}
+
+#crystal-four {
+  height: 100px;
+  width: 100px;
+}
